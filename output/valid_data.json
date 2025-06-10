@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "record_count": 2,
+    "processed_at": "2025-06-10T17:17:47.918627"
+  },
+  "data": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com"
+    }
+  ]
+}

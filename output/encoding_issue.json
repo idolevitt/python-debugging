@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "record_count": 2,
+    "processed_at": "2025-06-10T17:16:27.438066"
+  },
+  "data": [
+    {
+      "id": "1",
+      "name": "José García",
+      "email": "jose@example.com"
+    },
+    {
+      "id": "2",
+      "name": "François Dubois",
+      "email": "francois@example.com"
+    }
+  ]
+}

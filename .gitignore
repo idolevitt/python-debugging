@@ -1,0 +1,33 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Distribution/Packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+.coverage
+*.coveragerc
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Environment variables
+.env
